@@ -2,7 +2,7 @@
 title: "Machine Learning Models to predict Greenhouse Gas Emissions in the Middle East using Industrial and Demographic Data "
 collection: teaching
 type: "Center of Environment and Water, Research Institute"
-permalink: /research/ghg
+permalink: /ghg
 venue: "KFUPM"
 date: 
 location: ""
