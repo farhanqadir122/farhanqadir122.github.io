@@ -4,7 +4,7 @@ collection: teaching
 type: "Center of Environment and Water, Research Institute"
 permalink: /research/ghg
 venue: "KFUPM"
-date: ""
+date: 
 location: ""
 ---
 
