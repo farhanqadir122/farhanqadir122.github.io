@@ -2,7 +2,7 @@
 title: "Weather Image Recognition using Deep Learning"
 collection: teaching
 type: "Workshop"
-permalink: /research/weather
+permalink: /weather
 venue: ""
 date: 
 location: "KFUPM"
