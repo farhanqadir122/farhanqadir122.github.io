@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Weather Image Recognition using Deep Learning"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /research/weather
+venue: ""
+date: 
+location: "KFUPM"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
