@@ -1,9 +1,9 @@
 ---
 title: "Arabic Sign Language Recognition using Deep Learning "
 collection: teaching
-type: ""
+type: "KFUPM"
 permalink: /research/arsl
-venue: "KFUPM"
+venue: ""
 date: 2021-01-01
 location: ""
 ---
