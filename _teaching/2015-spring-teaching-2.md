@@ -1,9 +1,9 @@
 ---
 title: "Weather Image Recognition using Deep Learning"
 collection: teaching
-type: "Teaching"
+type: "KFUPM"
 permalink: /research/weather
-venue: "KFUPM"
+venue: ""
 date: 2022-01-01
 location: ""
 ---
