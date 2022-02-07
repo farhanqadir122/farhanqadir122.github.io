@@ -19,7 +19,7 @@ international students)
 * CGPA 10/10 in CBSE 10th Grade
 * 94% and Gold Honour Roll in CBSE 12th Grade
 
-## Tips and hints
+## Extracurricular
 
 * Winner of last 4 badminton tournaments organised by KFUPM Sports Club
 * Winner of U17 KSA Badminton National Competition and participant in Nationals held in Varanasi
