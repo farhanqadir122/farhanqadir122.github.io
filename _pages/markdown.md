@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /awards/
+title: "Honours and Awards"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /honours/
+  - /awards.html
 ---
 
 ## Locations of key files/directories
