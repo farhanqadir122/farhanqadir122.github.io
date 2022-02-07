@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /weather
 venue: ""
-date: 2021
+date: 2021-01-01
 location: "KFUPM"
 ---
 
