@@ -11,7 +11,7 @@ redirect_from:
 
 * Full Tuition Waiver and monthly stipend from Ministry of Education in KFUPM (given to a handful of
 international students)
-* National Entrance Examinations - Scored 98 in GAT(Qudrat) and 89 in SAAT(Tehseeli)
+* 99th percentile in Saudi Arabian Undergraduate National Entrance Examinations in GAT(Qudrat) and SAAT(Tehseeli) 
 * Certificate of completion of Summer Undergraduate Research Experience program in KFUPM
 * Certificates of Academic Excellence from Physics department in Physics 101 and 102
 * Award for Excellence in Writing from English Language Department
