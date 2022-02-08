@@ -1,6 +1,6 @@
 ---
 title: "N Queens Algorithmic Solver"
-excerpt: "Python <br/><img src='/images/500x300.png'>"
+excerpt: "Python <br/><img src='/images/10.JPG'>"
 collection: portfolio
 ---
 
