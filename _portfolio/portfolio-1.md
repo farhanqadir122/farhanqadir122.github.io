@@ -10,10 +10,10 @@ collection: portfolio
   ![Javafx](https://img.shields.io/badge/Javafx-orange?style=flat)
   ![AWS RDS](https://img.shields.io/badge/-AWS_RDS-f0806c?style=flat)
   
-  Course Project: ICS 324/201 - Build a full stack KFUPM club management system.
+  Group Project. Repository available on teammate's page using my previous Github account. https://github.com/AI-14/KFUPM-Clubzz
 
 ## Description
-   Build a full stack KFUPM club management system. For more details, see *project_docs* folder.
+   Build a full stack KFUPM club management system. 
 
 ## Screenshots Of The Application
 <details>
