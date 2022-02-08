@@ -8,4 +8,7 @@ date: 2021-01-01
 location: ""
 ---
 
+[**In progress**] Socio-Economic and Industrial Based Forecasting of Greenhouse Gas Emissions in the Middle East.
 
+Code and report complete- available upon request. Paper under progress in collaboration with Research Institute, KFUPM. 
+[!Emissions](/images/ghg.png)
