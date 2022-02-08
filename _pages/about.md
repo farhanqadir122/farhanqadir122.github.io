@@ -24,5 +24,5 @@ My hobbies include playing sports, reading, and video games.
 Badminton
 ------
 I have represented Saudi Arabia at various age levels in school and won several accolades. Due to circumstances out of my control, I had to stop playing competitively as the scholarship offered by KFUPM was a golden opportunity to relieve the financial burden on my family. Unfortunately, there are no inter-university competitions in Saudi Arabia and all other public competitions are restricted to Saudi citizens only.
-![National Badminton Mixed Doubles Championships 2016, Varanasi](/images/editing-talk.png)
+![National Badminton Mixed Doubles Championships 2016, Varanasi](/images/badminton.jpeg)
 
