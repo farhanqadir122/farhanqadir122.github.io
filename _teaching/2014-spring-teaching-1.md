@@ -14,11 +14,11 @@ Code and report complete- available upon request. Paper under progress in collab
 
 Model  | r^2 | MAE  | MSE
 -----|-------|--------|-----|
-2 Degree Ridge Regression      | 0.99 | 7782| 136016472  
-2 Degree Elastic Net Regression      | 0.99      | 9616 | 186168043  
-2 Degree Lasso Regression      | 0.99 | 9786|191789177 
-Decision Tree Regression      | 0.98      | 10577|249013533 
-Support Vector Regression      | 0.98      | 11724|330625788 
+Decision Tree Regression      | 0.99 | 7782| 136016472  
+Support Vector Regression      | 0.99      | 9616 | 186168043  
+2 Degree Elastic Net Regression      | 0.99 | 9786|191789177 
+2 Degree Lasso Regression      | 0.98      | 10577|249013533 
+2 Degree Ridge Regression      | 0.98      | 11724|330625788 
 
 ![Emissions](/images/ghg.png)
 Emissions
