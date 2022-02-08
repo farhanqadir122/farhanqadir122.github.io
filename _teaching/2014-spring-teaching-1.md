@@ -20,8 +20,10 @@ Support Vector Regression      | 0.99      | 9616 | 186168043
 2 Degree Lasso Regression      | 0.98      | 10577|249013533 
 2 Degree Ridge Regression      | 0.98      | 11724|330625788 
 
+
 ![Emissions](/images/ghg.png)
 Emissions
+
 
 ![DT](/images/dt.png)
 
