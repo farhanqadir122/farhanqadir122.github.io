@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 2"
+title: "KFUPM Clubs RDBMS application"
 permalink: /projects/KFUPMClubzz
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+excerpt: "Build a full stack KFUPM clubs management system<br/><img src='/readme_res/Snap1.png'>"
 collection: portfolio
 ---
 
