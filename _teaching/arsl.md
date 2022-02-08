@@ -10,4 +10,5 @@ location: ""
 
 [**In Progress**] 
 
-(/images/arsl.png)
+
+![ARSL](/images/arsl.png)
