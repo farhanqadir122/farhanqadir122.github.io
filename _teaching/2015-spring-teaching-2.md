@@ -8,13 +8,7 @@ date: 2022-01-01
 location: ""
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+To improve weather recognition technology for use in public, we used Deep Learning techniques spanning computer vision transformers, transfer learning, and a baseline CNN, to train several models on a weather image dataset containing classes mostly relevant to Middle Eastern weather, before recording, analyzing, and comparing the results with the custom ‘MeteCNN’ model published by Xiao H. et al. (2021) during their research on Weather image recognition.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+[Draft](/files/Weather.pdf)
+[Literature Review](/files/WeatherLiteratureReview.pdf)
