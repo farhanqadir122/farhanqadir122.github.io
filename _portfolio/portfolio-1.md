@@ -1,7 +1,28 @@
----
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
----
+# KFUPM Clubzz
+  ![Java](https://img.shields.io/badge/Java-5181b8?style=flat&logo=java&logoColor=white)
+  ![Javafx](https://img.shields.io/badge/Javafx-orange?style=flat)
+  ![AWS RDS](https://img.shields.io/badge/-AWS_RDS-f0806c?style=flat)
+  
+  Course Project: ICS 324/201 - Build a full stack KFUPM club management system.
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Description
+   Build a full stack KFUPM club management system. For more details, see *project_docs* folder.
+
+## Screenshots Of The Application
+<details>
+  <summary>Click to expand!</summary>
+<img src="readme_res/Snap1.png" width="400"/><img src="readme_res/Snap2.png" width="400"/>
+
+<img src="readme_res/Snap3.png" width="400"/> <img src="readme_res/Snap4.png" width="400"/> 
+
+<img src="readme_res/Snap5.png" width="400"/><img src="readme_res/Snap6.png" width="400"/>
+
+<img src="readme_res/Snap7.png" width="400"/> <img src="readme_res/Snap8.png" width="400"/> 
+
+<img src="readme_res/Snap9.png" width="400"/> <img src="readme_res/Snap10.png" width="400"/> 
+</details>
+
+
+
+
+
