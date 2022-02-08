@@ -24,5 +24,6 @@ Support Vector Regression      | 0.99      | 9616 | 186168043
 Emissions
 
 ![DT](/images/dt.png)
-Decision tree model predictions for all countries with 0.98 r^2 value
+
+Decision tree model predictions for all countries with 0.99 r^2 value
 
