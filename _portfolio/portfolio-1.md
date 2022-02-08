@@ -1,3 +1,9 @@
+---
+title: "Portfolio item number 2"
+excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
 # KFUPM Clubzz
   ![Java](https://img.shields.io/badge/Java-5181b8?style=flat&logo=java&logoColor=white)
   ![Javafx](https://img.shields.io/badge/Javafx-orange?style=flat)
