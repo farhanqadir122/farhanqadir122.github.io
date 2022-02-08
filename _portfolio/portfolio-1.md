@@ -1,7 +1,7 @@
 ---
 title: "KFUPM Clubs RDBMS application"
 permalink: /projects/KFUPMClubzz
-excerpt: "Build a full stack KFUPM clubs management system<br/><img src='readme_res/Snap1.png'>"
+excerpt: "Build a full stack KFUPM clubs management system<br/><img src='/readme_res/Snap1.png'>"
 collection: portfolio
 ---
 
