@@ -23,6 +23,6 @@ Support Vector Regression      | 0.99      | 9616 | 186168043
 ![Emissions](/images/ghg.png)
 Emissions
 
-![DT](/images/ghg.png)
+![DT](/images/dt.png)
 Decision tree model predictions for all countries with 0.98 r^2 value
 
