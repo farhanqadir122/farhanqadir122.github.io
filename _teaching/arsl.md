@@ -10,4 +10,4 @@ location: ""
 
 [**In Progress**] 
 
-(/photos/arsl.png)
+(/images/arsl.png)
