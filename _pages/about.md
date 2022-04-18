@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 **Dear UIUC CS committee, please refer below**
+======
 I am a senior undergraduate student majoring in Computer Science at King Fahd University of Petroleum and Minerals in Saudi Arabia. I am aiming to pursue a graduate degree in Computer Science in order to contribute to impactful projects in a way that benefits society and the environment, be it through a career in academia as a professor, or as a research scientist at national R&D organizations. 
 
 RESEARCH INTERESTS(FOR UIUC)
