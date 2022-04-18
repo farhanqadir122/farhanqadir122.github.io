@@ -1,5 +1,3 @@
-FOR UIUC
-My primary aims for research lie in the field of applications of machine learning, especially projects that have a meaningful impact on society and the environment. The research projects at the Information and Intelligence Group, headed by Dr. Varshney are appealing to me. I am particularly interested in the projects concerning mental health and neuroscience. Mental Health is still considered as a stigma in the Middle East, and I have come across several instances among my colleagues at KFUPM. The worst situations have been those of numerous expatriates who come to Saudi Arabia to earn and send enough money to their family but are unable to do so. For similar reasons, I am interested in the research areas of  Dr. Arindam, with my background in similar fields being a factor. The applications of machine learning on problems in Climate Science, especially climate forecasting, and Ecology are captivating. In addition to this, another intended direction of my career is towards sports analysis. The research projects of Dr. Schwing are fascinating, and I am specifically interested in his projects related to movement prediction. The Learning to Anticipate project, in particular, would help me in one of my research ideas related to optimizing badminton decision-making, coupled with my background in competitive racquet sports. 
 
 ---
 permalink: /
@@ -10,6 +8,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+FOR UIUC
+
+My primary aims for research lie in the field of applications of machine learning, especially projects that have a meaningful impact on society and the environment. The research projects at the Information and Intelligence Group, headed by Dr. Varshney are appealing to me. I am particularly interested in the projects concerning mental health and neuroscience. Mental Health is still considered as a stigma in the Middle East, and I have come across several instances among my colleagues at KFUPM. The worst situations have been those of numerous expatriates who come to Saudi Arabia to earn and send enough money to their family but are unable to do so. For similar reasons, I am interested in the research areas of  Dr. Arindam, with my background in similar fields being a factor. The applications of machine learning on problems in Climate Science, especially climate forecasting, and Ecology are captivating. In addition to this, another intended direction of my career is towards sports analysis. The research projects of Dr. Schwing are fascinating, and I am specifically interested in his projects related to movement prediction. The Learning to Anticipate project, in particular, would help me in one of my research ideas related to optimizing badminton decision-making, coupled with my background in competitive racquet sports. 
 
 I am a senior undergraduate student majoring in Computer Science at King Fahd University of Petroleum and Minerals in Saudi Arabia. I am aiming to pursue a graduate degree in Computer Science in order to contribute to impactful projects in a way that benefits society and the environment, be it through a career in academia as a professor, or as a research scientist at national R&D organizations. 
 
