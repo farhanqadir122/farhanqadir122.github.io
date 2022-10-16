@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<!---
 Teaching Assistant Preferences
 ======
 As one of a handful of international undergraduate students at my university, I had to adapt and step out of my comfort zone in order to perform my duties effectively as a TA. This gave me the confidence and ability to successfully communicate with students who had a completely different background and language. This began unofficially during the introductory CS courses, which were taught by my advisor who had just joined the university as well. He had a difficult time adjusting to the abilities of the students who had studied in Arabic all their school life and were taking an undergraduate course for the first time after going through an intensive one year English program. I helped to mitigate some of these issues by communicating with the professor and students, and orgranising weekly student study sessions voluntarily. 
@@ -46,3 +46,5 @@ I have represented Saudi Arabia at various age levels in school and won several 
 
 ![National Badminton Mixed Doubles Championships 2016, Varanasi](/images/badminton.jpeg)
 National Badminton Mixed Doubles Championships 2016, Varanasi
+-->
+
